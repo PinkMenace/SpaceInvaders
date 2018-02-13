@@ -1,0 +1,153 @@
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Player\Tank.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip01.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip02.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip03.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip04.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip05.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip06.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet\Bullet01.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet\Bullet02.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - -.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 0.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 1.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 2.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 3.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 4.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 5.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 6.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 7.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 8.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 9.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - A.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - asterisk.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - B.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Bracket.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - C.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - D.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - E.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - EqualsSign.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - F.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - G.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - H.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - I.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - J.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - K.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - L.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - M.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - N.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - O.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - P.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Q.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - QuestionMark.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - R.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - S.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - T.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - U.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - V.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - W.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - X.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Y.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Z.xnb
+C:\Users\Ashley\Documents\Visual Studio 2015\Projects\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Space.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - -.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 0.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 1.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 2.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 3.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 4.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 5.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 6.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 7.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 8.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - 9.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - A.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - asterisk.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - B.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - C.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - D.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - E.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - EqualsSign.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - F.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - G.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - H.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - I.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - J.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - K.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - L.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - M.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - N.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - O.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - P.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Q.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - QuestionMark.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - R.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - S.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - T.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - U.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - V.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - W.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - X.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Y.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Letter - Z.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Character\Space.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip01.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip02.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip03.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip04.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip05.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Alien\AlienShip06.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet\Bullet01.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet\Bullet02.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Player\Tank.xnb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ashley\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ashley\Desktop\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ashley\Desktop\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb

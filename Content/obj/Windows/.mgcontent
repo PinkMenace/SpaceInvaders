@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Player/Tank.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip01.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip02.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip03.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip04.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip05.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Alien/AlienShip06.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Bullet/Bullet01.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Bullet/Bullet02.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - -.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 0.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 1.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 2.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 3.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 4.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 5.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 6.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 7.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 8.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - 9.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - A.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - asterisk.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - B.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - C.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - D.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - E.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - EqualsSign.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - F.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - G.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - H.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - I.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - J.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - K.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - L.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - M.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - N.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - O.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - P.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - Q.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - QuestionMark.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - R.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - S.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - T.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - U.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - V.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - W.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - X.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - Y.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Letter - Z.png</File>
+    <File>C:/Users/Ashley/Desktop/SpaceInvaders/SpaceInvaders/Content/Character/Space.png</File>
+  </SourceFiles>
+</SourceFileCollection>
